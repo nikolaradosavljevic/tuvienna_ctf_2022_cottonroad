@@ -1,0 +1,7 @@
+*.swp
+*.swo
+
+*/__pycache__*
+*json
+.DS_STORE
+.idea
